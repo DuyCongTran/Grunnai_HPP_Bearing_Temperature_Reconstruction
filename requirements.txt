@@ -1,0 +1,10 @@
+pandas
+numpy
+plotly
+scipy
+seaborn
+matplotlib
+pyagrum
+sklearn
+joblib
+time
